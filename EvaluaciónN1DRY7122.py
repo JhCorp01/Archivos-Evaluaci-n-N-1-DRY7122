@@ -1,4 +1,4 @@
-print("Evaluación N°1 - DRY7122_2023")
+print("Evaluación N 1 DRY7122_2023")
 asignatura = input("Ingrese el nombre de su asignatura: ")
 cant_integrantes = int(input("Ingrese la cantidad de integrantes en el grupo: "))
 
